@@ -1,0 +1,16 @@
+.container{
+  border: solid 2px gray;
+  width:40%;
+  margin:auto;
+  margin-top: 20px;
+}
+.content{
+  text-align: center;
+}
+button, input{
+  margin-left:5px;
+}
+p{
+  font-weight: bold;
+  
+}
